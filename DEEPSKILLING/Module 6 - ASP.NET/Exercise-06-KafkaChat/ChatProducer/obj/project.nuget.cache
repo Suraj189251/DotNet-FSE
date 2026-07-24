@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsPwaTl2Mhk=",
+  "success": true,
+  "projectFilePath": "D:\\New folder (2)\\DotNet-FSE\\DEEPSKILLING\\Module 6 - ASP.NET\\Exercise-06-KafkaChat\\ChatProducer\\ChatProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suraj\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
+    "C:\\Users\\suraj\\.nuget\\packages\\librdkafka.redist\\2.12.0\\librdkafka.redist.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
