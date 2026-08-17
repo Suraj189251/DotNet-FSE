@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab09-Seeding-Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2181ea03aa8bdf933658fbc47486de0bd558ce4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cc6e4158888baab209ba97ce231eb21dc059c3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab09-Seeding-Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab09-Seeding-Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
